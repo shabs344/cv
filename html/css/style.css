@@ -1,0 +1,31 @@
+.bacon {
+    background-image:url( https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-india_1f1ee-1f1f3.png); 
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+    background-color:skyblue;
+ } 
+
+hr{
+border-style:dotted none none;
+width:5%;
+border-color:grey;
+border-width:5px;
+}
+
+h1{
+color:#66BFBF;
+font-family: 'verdena';
+}
+h3{
+color:#66BFBF;
+}
+p{
+color:rosybrown
+}
+table{
+color:salmon
+}
+img:hover{
+border-radius: 50%;
+background-color:gold;
+}
